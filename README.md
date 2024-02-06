@@ -2,7 +2,7 @@
 
 This is the place for Diode users, testers and developers to give feedback and report issues.  Please submit bug reports or feature requests for Diode as an Issue in this project.
 
-Please include with all issues:
+Please include with all issues ([Example](https://github.com/diodechain/diode_feedback/issues/1)):
 1) Operating system and version
 2) Diode software (App or CLI) and version
 3) Problem description
