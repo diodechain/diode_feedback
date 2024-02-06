@@ -1,10 +1,10 @@
 # Diode Feedback
 
-This is the place for Diode users, testers and developers to give feedback and report issues.  Please submit bug reports or feature requests for Diode Drive as an Issue in this project.
+This is the place for Diode users, testers and developers to give feedback and report issues.  Please submit bug reports or feature requests for Diode as an Issue in this project.
 
 Please include with all issues:
 1) Operating system and version
-2) Diode Drive version
+2) Diode software (App or CLI) and version
 3) Problem description
 4) Steps to reproduce (if known)
 5) Screen shot (if applicable)
